@@ -12,7 +12,7 @@ Easy to use interface
 🚀 How to Install and Run Locally
 Clone the repository:
 
-git clonehttps://github.com/Mujeeburrehman4596/Survey_App
+git clone https://github.com/Mujeeburrehman4596/Survey_App
 
 📦 Technologies Used
 HTML5: Structure of the app
